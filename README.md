@@ -1,6 +1,6 @@
 # 🧠 ADALINE - Adaptive Linear Neuron
 
-Este repositório contém a implementação do **ADALINE (Adaptive Linear Neuron)**, um modelo de rede neural artificial para classificação binária, desenvolvido como parte da disciplina de **Redes Neurais Artificiais**.
+Este repositório contém a implementação do **ADALINE**, um modelo de rede neural artificial para classificação binária, desenvolvido como parte da disciplina de **Redes Neurais Artificiais**.
 
 ## 🔬 Sobre o ADALINE
 
