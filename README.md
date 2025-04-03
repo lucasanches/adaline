@@ -9,10 +9,3 @@ O **ADALINE** é um algoritmo de aprendizado supervisionado proposto por Bernard
 ## 🛠 Tecnologias Utilizadas
 
 - Python
-
-## 📊 Visualização dos Dados
-
-O código gera gráficos que mostram:
-- A evolução do erro ao longo das épocas;
-- A distribuição das amostras de treinamento e teste;
-- A fronteira de decisão aprendida pelo ADALINE.
