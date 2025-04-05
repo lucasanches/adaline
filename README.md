@@ -11,7 +11,7 @@ O **ADALINE** é um algoritmo de aprendizado supervisionado proposto por Bernard
 Nesta atividade, o ADALINE foi treinado para classificar amostras em duas categorias distintas, utilizando diferentes configurações de taxa de aprendizado e critério de parada. Foram realizados experimentos com:
 - Aprendizado **batch** (ajuste dos pesos com base em todas as amostras de uma vez);
 - Aprendizado **online** (ajuste dos pesos a cada amostra processada);
-- Diferentes taxas de aprendizado (\( \eta \)) e critérios de parada para observar seu impacto na convergência do modelo.
+- Diferentes taxas de aprendizado (𝜂) e critérios de parada para observar seu impacto na convergência do modelo.
 
 ## 🛠 Tecnologias Utilizadas
 
